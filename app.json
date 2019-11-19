@@ -29,6 +29,8 @@
     },
     "android": {
       "package": "com.bacon.expo.socialize"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/RutgerSwirski/SocializeReactNative"
   }
 }
